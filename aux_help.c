@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * aux_help_env - Help information for the builtin env
+ * aux_help_env - the builtin env help information.
  * Return: no return
  */
 void aux_help_env(void)
